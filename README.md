@@ -1,4 +1,4 @@
-# wanna咲 :link: https://wannatosmile.github.io/wanna-smile.github.io 
+# wanna咲 :link: https://wanna-smile-me.github.io
 ### :page_facing_up: [2](https://wannatosmile.github.io/wanna-smile.github.io/tag.html) 
 ### :speech_balloon: 0 
 ### :hibiscus: 8349 
