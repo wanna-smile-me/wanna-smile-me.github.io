@@ -7,6 +7,6 @@
     "script1": "<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script>",
     "script2": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekTOC.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>",
     "themeMode":"fix",
-    "dayTheme":"dark",
-    "nightTheme":"dark-blue",
+        "dayTheme":"dark",
+        "nightTheme":"dark-blue",
 }
