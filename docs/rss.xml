@@ -1,5 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>wanna咲</title><link>https://wanna-smile-me.github.io</link><description>我们日复一日的每个日常，也许就是连续发生的奇迹</description><copyright>wanna咲</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/123223185?v=4</url><title>avatar</title><link>https://wanna-smile-me.github.io</link></image><lastBuildDate>Fri, 27 Feb 2026 12:06:23 +0000</lastBuildDate><managingEditor>wanna咲</managingEditor><ttl>60</ttl><webMaster>wanna咲</webMaster><item><title>关于记忆与时间的小随笔</title><link>https://wanna-smile-me.github.io/post/guan-yu-ji-yi-yu-shi-jian-de-xiao-sui-bi.html</link><description>## 记忆与时间
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>wanna咲</title><link>https://wanna-smile-me.github.io</link><description>我们日复一日的每个日常，也许就是连续发生的奇迹</description><copyright>wanna咲</copyright><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><image><url>https://avatars.githubusercontent.com/u/123223185?v=4</url><title>avatar</title><link>https://wanna-smile-me.github.io</link></image><lastBuildDate>Tue, 21 Apr 2026 13:31:15 +0000</lastBuildDate><managingEditor>wanna咲</managingEditor><ttl>60</ttl><webMaster>wanna咲</webMaster><item><title>文件夹命名与整理指南</title><link>https://wanna-smile-me.github.io/post/wen-jian-jia-ming-ming-yu-zheng-li-zhi-nan.html</link><description>## 一、文件夹层级结构
+
+遵循**三层封顶原则**，避免文件夹层次过多，寻找麻烦
+
+### 第一层：大类
+
+核心分类，涵盖主要使用场景，例如：项目工作、日常办公、培训学习、娱乐等。</description><guid isPermaLink="true">https://wanna-smile-me.github.io/post/wen-jian-jia-ming-ming-yu-zheng-li-zhi-nan.html</guid><pubDate>Tue, 21 Apr 2026 13:30:35 +0000</pubDate></item><item><title>关于记忆与时间的小随笔</title><link>https://wanna-smile-me.github.io/post/guan-yu-ji-yi-yu-shi-jian-de-xiao-sui-bi.html</link><description>## 记忆与时间
 
 昨日之事还算是容易记起，前天的事情就没那么容易，只留下些稀微的印象，再往前一天的事情就开始想不起来了，和今天、昨天似乎也差不多。</description><guid isPermaLink="true">https://wanna-smile-me.github.io/post/guan-yu-ji-yi-yu-shi-jian-de-xiao-sui-bi.html</guid><pubDate>Fri, 27 Feb 2026 12:05:57 +0000</pubDate></item><item><title>我的投资阶段性心得</title><link>https://wanna-smile-me.github.io/post/wo-de-tou-zi-jie-duan-xing-xin-de.html</link><description>今天是2025年11月5日0点，投资两年来也有了不错的收益，以下纪录我目前的心得体会
 ******
